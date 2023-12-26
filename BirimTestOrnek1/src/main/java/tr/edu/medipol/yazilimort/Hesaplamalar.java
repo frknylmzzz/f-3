@@ -28,5 +28,6 @@ public class Hesaplamalar {
     public static int carp(int a, int b) {
         int sonuc = a * b;
         return sonuc;
+        
     }
 }
