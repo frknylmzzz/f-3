@@ -39,5 +39,6 @@ public class HesaplamalarTest {
     @Test
     public void testCarpaveb() {
         assertEquals(8, Hesaplamalar.carp(4, 2));
+        
     }
 }
